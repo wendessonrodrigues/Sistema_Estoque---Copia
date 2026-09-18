@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_editaritens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_editaritens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\c_logado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\c_logado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|c:\\users\\senacadm\\documents\\projeto paulo e luiz\\sistema_estoque - copia\\sistema_estoque\\f_outrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_outrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_janelaenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_janelaenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_editaritens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_editaritens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_outrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_outrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\sistema_estoque\\f_janelaenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A055238B-014D-4C1C-93A8-D21CB6B32E92}|Sistema_Estoque\\Sistema_Estoque.csproj|solutionrelative:sistema_estoque\\f_janelaenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C_Logado.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\C_Logado.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\C_Logado.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\C_Logado.cs",
+              "RelativeToolTip": "Sistema_Estoque\\C_Logado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:40:40.92Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "F_JanelaEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_JanelaEnvio.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_JanelaEnvio.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_JanelaEnvio.cs",
+              "RelativeToolTip": "Sistema_Estoque\\F_JanelaEnvio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:41:31.16Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\Program.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\Program.cs",
+              "RelativeToolTip": "Sistema_Estoque\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T10:47:05.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "F_OutroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_OutroUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_OutroUsuario.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_OutroUsuario.cs",
+              "RelativeToolTip": "Sistema_Estoque\\F_OutroUsuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:01:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "F_Login.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Login.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_Login.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Login.cs",
+              "RelativeToolTip": "Sistema_Estoque\\F_Login.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAIAwwGIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T10:55:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "F_Editaritens.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Editaritens.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_Editaritens.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Editaritens.cs [Design]",
+              "RelativeToolTip": "Sistema_Estoque\\F_Editaritens.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:41:32.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "F_JanelaEnvio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_JanelaEnvio.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_JanelaEnvio.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_JanelaEnvio.cs [Design]",
+              "RelativeToolTip": "Sistema_Estoque\\F_JanelaEnvio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:29:48.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "F_Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Menu.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_Menu.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Menu.cs [Design]",
+              "RelativeToolTip": "Sistema_Estoque\\F_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:48:28.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F_OutroUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_OutroUsuario.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_OutroUsuario.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_OutroUsuario.cs [Design]",
+              "RelativeToolTip": "Sistema_Estoque\\F_OutroUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T10:53:29.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Menu.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_Menu.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Menu.cs",
+              "RelativeToolTip": "Sistema_Estoque\\F_Menu.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAWwE4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T11:42:03.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_Editaritens.cs",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Editaritens.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_Editaritens.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Editaritens.cs",
+              "RelativeToolTip": "Sistema_Estoque\\F_Editaritens.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAywBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:51:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Login.cs",
+              "RelativeDocumentMoniker": "Sistema_Estoque\\F_Login.cs",
+              "ToolTip": "C:\\Users\\senacadm\\Documents\\projeto paulo e luiz\\Sistema_Estoque - Copia\\Sistema_Estoque\\F_Login.cs [Design]",
+              "RelativeToolTip": "Sistema_Estoque\\F_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:31:08.91Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

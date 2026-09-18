@@ -1,0 +1,38 @@
+Anotações de layout
+
+1- Tem que ser facil de usar
+
+2- Layout tem que transmitir conforto, com cores calmas
+ azul
+
+Honeydew
+234; 247; 237
+
+Light Cyan
+224; 250; 255
+
+Frotesd Blue
+159; 226; 238
+
+Wisteria Blue
+128; 164; 212
+
+Medium
+123; 117; 201
+
+---------,,,--------
+
+Honeydew
+234, 247, 237
+
+Light Cyan
+224, 250, 255
+
+Frotesd Blue
+159, 226, 238
+
+Wisteria Blue
+128, 164, 212
+
+Medium Slate Blue
+123, 117, 201

@@ -1,0 +1,24 @@
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\bin\Debug\Sistema_Estoque.exe.config
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\bin\Debug\Sistema_Estoque.exe
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\bin\Debug\Sistema_Estoque.pdb
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.csproj.AssemblyReference.cache
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.F_Login.resources
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.Properties.Resources.resources
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.csproj.GenerateResource.cache
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.exe
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.pdb
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.F_Menu.resources
+D:\Users\Aluno\Documents\Luiz Guilherme G\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.Resources.NewFolder1.F_Usuario.resources
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\bin\Debug\Sistema_Estoque.exe.config
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\bin\Debug\Sistema_Estoque.exe
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\bin\Debug\Sistema_Estoque.pdb
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.csproj.AssemblyReference.cache
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.F_Login.resources
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.F_Menu.resources
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.Properties.Resources.resources
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.Resources.NewFolder1.F_Usuario.resources
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.csproj.GenerateResource.cache
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.exe
+C:\Users\senacadm\Documents\projeto paulo e luiz\Sistema_Estoque\Sistema_Estoque\obj\Debug\Sistema_Estoque.pdb
